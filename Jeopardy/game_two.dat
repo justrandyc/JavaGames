@@ -1,0 +1,156 @@
+# The game.dat file contains categories, questions, and
+# answers.  They will be read from top to bottom.  The
+# values can be entered in any order (ie all cats at the
+# top, or logically arranged).
+#
+# The syntax for the file is:
+#
+#	CAT:Some Category
+#	QST:Some question that is all on one line
+#	ANS:Some answer all on one line
+#
+
+CAT:Next in Series
+QST:What is S
+ANS:Next in the Calendar series S M T W T F
+QST:What is V
+ANS:Next in the Literature series Z Y X W 
+QST:What are unfortunate events
+ANS:Jim Carry had a lot to do with these
+QST:What is parallel
+ANS:It's the opposite way of hooking up electronic components from series
+QST:Who are the Pittsburgh Pirates
+ANS:The "Boston Americans" found themselves playing against this team in the first ever world series, in 1903
+
+CAT:Game Shows
+QST:What is a car
+ANS:Most common grand prize of any game show
+QST:What is "come on down"
+ANS:Bob Barker's famous invitation
+QST:What is Let's Make a Deal
+ANS:For this show, carrying "odd" items in your pockets was considered normal
+QST:What is Rice-a-Roni
+ANS:Major sponsor of shows in the 70's and a San Francisco treat
+QST:What is Jeopardy
+ANS:One of Greg Kihm's hits that became a game show musical parody
+
+CAT:Show Me the Money
+QST:What is the $10 bill
+ANS:It's the smallest US paper bill without a president
+QST:What is two
+ANS:It's the number of Abraham Lincolns on a penny
+QST:What is monopoly
+ANS:More money is printed each year for this game than real US currency
+QST:What is Jerry McGuire
+ANS:Cuba Gooding said "show me the money" in this 1996 Oscar winner
+QST:What is the Sacagawea $1 coin
+ANS:This U.S. coin shows the image of Jean Baptiste
+
+CAT:"U" know it
+QST:Who is Bob Uecker
+ANS:He thought his upper deck seats were in the front row
+QST:Who is UnderDog
+ANS:Sweet Polly Purebred's boyfriend
+QST:What is Underwood
+ANS:Holder of the oldest U.S. company trademark in use today, the little devils!
+QST:What is a uboat
+ANS:Number 505 is in a museum in Chicago and das boots are not required when entering
+QST:What is an umbrella
+ANS:A penguin, Jeeves, and John Steed all have this in common
+
+CAT:Sign of the times
+QST:What are miracles
+ANS:These wonders are faked today but 2000 years ago they were the real thing
+QST:Who is John Hancock
+ANS:His name is large, centered, and became a synonym for "signature"
+QST:What is sign language
+ANS:This waving of the hands comes in at least three dialects: American, Baby, and International
+QST:What is a zodiac sign
+ANS:Having this kind of cancer isn't fatal, unless you were born outside of June 22 to July 22
+QST:What is stupid
+ANS:According to Bill Engvall these folks should wear a sign to warn the rest of us
+
+CAT:Weird Al
+QST:What is polka
+ANS:Most albums from Al include at least one tribute to this type of music from his origins
+QST:What is UHF
+ANS:It includes such characters as "Conan, the Libarian" and "Uncle Nutsy"
+QST:Who is Michael Jackson
+ANS:One of Al's favorite artists to parody, two of which are "Eat It" and "Fat"
+QST:What is The Food Album
+ANS:A collection of songs including "Lasagna", "I love Rocky Road", and "My Bologna"
+QDD:What is an armpit
+ANS:Featured in several songs, this "musical instrument" left critics "up in arms"
+
+CAT:The 'I's Have It
+QST:What is an iris
+ANS:The colorful portion of the eye, not usually bulb shaped
+QST:What is the IRS
+ANS:A kinder, gentler branch of your tax collecting government
+QST:What is an IOU
+ANS:One who holds this has a hold over you, or at least your finances
+QST:What is Aye Aye
+ANS:I hear and will obey, or a lemur from Madagasgar
+QST:What is Aye Carumba!
+ANS:Bart Simpson might say this if you don't know the question
+
+CAT:What A Novel Idea
+QST:What is Harry Potter
+ANS:Randy refuses to read these currently popular childrens books (or watch the movies)
+QST:Who is Ishmael
+ANS:"Call me this" is the start of this looong required gradeschool reading
+QST:What is Gone with the Wind
+ANS:Bugs Bunny shows laundry being blown away to parody this 1939 movie from a novel
+QST:What is the Da Vinci Code
+ANS:The heroine herself is what is being sought in this church fantasy
+QST:What is Pride and Prejudice
+ANS:Mr Darcy might have a snooty opinion about this book
+
+CAT:Throw Me a Bone
+QST:Who is Smokey
+ANS:This bear asks you to help prevent forest fires
+QST:Who is Wiley
+ANS:A crafyius cannineus who has a taste for roastedus highwayeus fowlander
+QST:What is Taffy
+ANS:Sticky old-fashoned candy pulled and twisted then wrapped in wax paper
+QST:What is a nuisance
+ANS:Naughty, unfatal trickster.  For some people, a little sibling
+QDD:Who is Brewster
+ANS:He once had millions to waste, or a small town in Cape Cod along the King's Highway
+
+CAT:Name Brands
+QST:What is Kleenex
+ANS:Facial Tissues
+QST:What is an Ace Bandage
+ANS:An elastic bandage
+QDD:What is teflon
+ANS:This keeps you from getting in a sticky situation, especially when cooking
+QST:What is Cresent
+ANS:The inventor of the adjustable wrench with a simple screw mechanism
+QST:What is styrofoam
+ANS:This non-landfill-friendly plastic substance helps us mail items safely
+
+CAT:Uncle Shelby
+QST:What is drink
+ANS:I is for ink, and we can do this rhyming thing with it
+QST:What is "C"
+ANS:It's the last letter of his ABZ's alphabet
+QST:What is sugar
+ANS:P is for pony, and they live in your car (horse power). It's what we put in the tank for pony
+QST:What is an egg
+ANS:E is for Ernie who lives in the ceiling and this chicken product, toss them up until he catches one
+QST:What are teeth
+ANS:Uncle Shelby claims you can earn $3.20 by putting these under your pillow (at ten cents each)
+
+CAT:Freedom of Speech
+QST:What is sigh
+ANS:The sound lovers make when gazing into each other's eyes
+QST:What is D'owt!
+ANS:Homer Simpson exclaims this after making a mistake
+QST:What is bleah
+ANS:It's what Snoopy says after kissing Lucy
+QST:What is groan
+ANS:You might do this once you've heard the question to my answers (along with rolling your eyes)
+QST:What is yuk
+ANS:Mr this is mean, Mr this is green, and was meant to replace skull and crossbones
+

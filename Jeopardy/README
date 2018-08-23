@@ -1,0 +1,64 @@
+
+This app was created to enhance scoring of a real
+Jeopardy game, such as what you get with the home
+version.
+
+The questions are kept in a file called game.dat.
+
+I have provided two game question sets, which are
+simple straightforward ascii text files and can be
+edited in any simple editor.
+
+
+The initial screen is the editor.  This is where
+you can enter the names and adjust scores if needed.
+Once you click "Continue" the game board appears.
+
+The flow is intended as such:  
+
+1. A player rings in - select the player's button
+so it highlights to "red"
+
+2. The player answers. If the answer is right, click
+the left mouse button on the corresponding answer
+location.  It will change to that player's name and
+turn grey.  No further action can be had with this
+answer.
+
+3. If the player answers wrong, click the right
+mouse button on the answer and the points will be
+deducted from their score.  The button turns grey
+but others can still chime in, and after selecting
+their name FIRST then you can click the left or
+right button depending on if they get the answer
+correct or not.
+
+4. If no one chimes in, either initially or after a
+player has missed, you can mark the answer done by
+using the middle mouse button (ie No Answer)
+
+
+The rounds are selected at the top, for Jeopardy,
+Double Jeopardy, and Final Jeopardy.
+
+
+5. In Final Jeopardy, your contestants give you
+their bet values and you lock them in. Then, starting
+with the lowest scoring person first, you select
+their button (highlight them) and then click either
+they Answered Right or Wrong. Their button becomes
+disabled signifying they are "done" and then you
+select the next lowest score, etc.
+
+Remember, in the rules of Jeopardy only those with
+a positive score can bet, since they have to bet with
+what they have.  Right now there is no daily double
+but that may be put in later.
+
+Enjoy!  It was fun to make and I hope you get a lot
+of fun out of it yourself.
+
+Randy Crihfield
+
+email: justrandy@charter.net
+  web: www.justrandy.com

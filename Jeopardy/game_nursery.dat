@@ -1,0 +1,157 @@
+# The game.dat file contains categories, questions, and
+# answers.  They will be read from top to bottom.  The
+# values can be entered in any order (ie all cats at the
+# top, or logically arranged).
+#
+# The syntax for the file is:
+#
+#	CAT:Some Category
+#	QST:Some question that is all on one line
+#	ANS:Some answer all on one line
+#
+
+CAT:Recipes for Success
+QST:Who is the Gingerbread Man
+ANS:As fast food goes, he's quite the catch!
+QST:Who is Miss Muffet
+ANS:She loves eating cottage cheese, apparently while perching on lumps of grass
+QST:What are Blackbirds
+ANS:These fowl sing for someone else's supper!
+QST:Who is the Spider
+ANS:If she invited me to her supper, I'd "fly"
+QST:Who is Old Mother Hubbard
+ANS:She discovered "bear" food for canines
+
+CAT:Good for the Goose
+QST:What is father Gander
+ANS:It's who Mother Goose rode on when she wanted to wander
+QST:What is the Hokey Pokey
+ANS:It's what in and out are all about
+QST:Who is Jack Sprat
+ANS:His overweight wife helped licked the platter clean
+QST:What are Boys and Girls
+ANS:They are a confusing mix of tails, spices, snips, and other ingredients 
+QST:Who is Old MacDonald
+ANS:His geese seemed to honk honk everywhere
+
+CAT:You Big Chicken
+QST:Who is Little Red Hen
+ANS:This small crimson cluck did thngs by repitition (early in the morning)
+QST:Who is Chicken Little
+ANS:Goosey Loosey and Turkey Lurkey are two of his friends (Foxy Loxy is not!)
+QST:What is Skip To My Lou
+ANS:Before devils in Georgia, if a chicken got in your breadpan you did this
+QST:Who is Sweet Betsy From Pike
+ANS:She and Ike had a tall Shanghai rooster among their traveling animals
+QST:What is Nine, Ten
+ANS:A good, fat hen finishes this stanza
+
+CAT:It's A Small Thing
+QST:What is Eeenie Meenie Miney Moe
+ANS:The stoogie way of choosing a toe-hold on a ferocious feline
+QST:What is Itsy Bitsy
+ANS:The type of spider that climbs gutter drains
+QST:What is a litte hook
+ANS:Its the bite that lands fishy fishy in a frying pan
+QST:Who is the Inchworm
+ANS:This fellow should appreciate marigolds, instead of just measuring them
+QST:What is a Nail
+ANS:Without this a kingdom was lost
+
+CAT:There's Little To It
+QST:Who is my Little Shadow
+ANS:It's the small friend who's always with you - except at night!
+QST:Who is Little Boy Blue
+ANS:He's the slacker musician who's score is all "rests"
+QST:Who is Little Bo Peep
+ANS:Her woolen friends once were lost, but now were found (but left their tails behind)
+QST:Who is Little Jack Horner
+ANS:He's a good boy who should stop playing with his food
+QST:What is the Paw Paw Patch
+ANS:Its where little susie "woke up" with pockets, yonder
+
+CAT:Time Marches On
+QST:What are Peas Porrige
+ANS:I wouldn't eat them hot or cold, nine days old
+QST:What is Hickory Dickory Doc
+ANS:Apparently the type of wood for clocks that mice love to scamper on
+QST:What is the Old Grey Mare
+ANS:She ain't what she used to be
+QST:What is Pat-a-cake
+ANS:It sounds like light weight bakery brutality to quick dough pastries!
+QST:Who are Gingham and Calico
+ANS:Like Pizza the Hut, they ate themselves to death!
+
+CAT:Romance
+QST:What is Tisket a Tasket
+ANS:It's green and yellow container that used to contain a stolen love letter.
+QST:What are Birds of a Feather flock together
+ANS:The obvious conclusion when comparing rats, mice, pigs and swine to romance
+QST:Who is Froggie
+ANS:He asked to marry a mouse-maid without consulting uncle first!
+QST:Who is Georgie Porgie
+ANS:He's a masher that should have got a mashing (but ran away instead)
+QST:Who is the Little Blue Man
+ANS:He wuv's you to bits! (So try to keep your wits!)
+
+CAT:Getaways
+QST:What is the Mulberry Bush
+ANS:Traveling around this has you doing chores daily
+QST:What are Pigs have Wings
+ANS:Its the kind of pigs a walrus talks about, along with shoes, ships, and sealing wax
+QST:What is the Cow that jumped over the Moon
+ANS:Phinneas and Ferb thought its milk would be lunar-ishous!
+QST:What is Round The Mountain
+ANS:Its where she's coming from on six white horses, to eat chicken and dumplings!
+QST:Who is Jack be Nimble
+ANS:This fellow doesn't travel far, but his fast flights can get quite hot in the middle
+
+CAT:Building Relationships
+QST:What is House that Jack Built
+ANS:This dwelling project attracts worried cats and crumpled-horned cows
+QST:What is a Wood Chuck
+ANS:This marmot throws logs about (when he can)
+QST:Who is Humpty Dumpty
+ANS:He demonstrated the fact that things disassembled can't always be restored, the yolks on you!
+QST:What is Working on the Railroad
+ANS:Its what the man was doing while someone was playing banjo for Dinah
+QST:Who is Peter Pumpkin Eater
+ANS:He's the fellow who kept his roving wife in a gourd
+
+CAT:Big Baby
+QST:What is Hush Little Baby
+ANS:His desperate mother bought him a mocking bird and a diamond to make baby do this
+QST:What is an Alligator Purse
+ANS:Its the kind of purse the lady had who said baby had hiccups
+QST:What is Pick It Up
+ANS:Its what you do with a pin to have good luck
+QST:What is Rockabye Baby
+ANS:Its what babies no longer do when the wind breaks their branches
+QST:Who is Solomon Grundy
+ANS:His feats include born on Monday and buried on Sunday!
+
+CAT:Oh Mama
+QST:Who is Ba Ba Black Sheep
+ANS:His mother got a bag of wool, as well as the master and the boy down the lane.
+QST:Who are Three Little Kittens
+ANS:Their mother almost made them go without pie!
+QST:Who is the Old Lady in the Shoe
+ANS:She knew how to handle kids the Mr Randy way, no matter how many there were
+QST:Who is the Lady Bug
+ANS:Her only surviving daugher is Ann, who hid underneath the frying pan
+QST:Who is Billy Boy
+ANS:His dimpled love interest can make a cherry pie but cannot leave her mother.
+
+CAT:Weather or not
+QST:What is Ain't Gonna Rain
+ANS:It's what makes it hard to wash my neck (and pass my plate for more!)
+QST:Who is Oh Suzanna
+ANS:She cries when it's so hot people freeze to death
+QST:What is Raining and pouring
+ANS:It's something to do with old people bumping their heads in beds
+QST:What is Rain go away
+ANS:It makes people not care, and pull down underwear!
+QST:What is Star Light Star Bright
+ANS:It's what you might "wish" to see after the sun goes down
+
+CAT:Should not see this!

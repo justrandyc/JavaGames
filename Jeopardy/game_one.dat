@@ -1,0 +1,157 @@
+# The game.dat file contains categories, questions, and
+# answers.  They will be read from top to bottom.  The
+# values can be entered in any order (ie all cats at the
+# top, or logically arranged).
+#
+# The syntax for the file is:
+#
+#	CAT:Some Category
+#	QST:Some question that is all on one line
+#	ANS:Some answer all on one line
+#
+
+CAT:Math
+QST:What is 3
+ANS:The number of licks it takes to get to the center of a tootsie pop
+QST:What is 2
+ANS:The cube root of 8
+QST:What is 42
+ANS:The meaning of life, according to Douglas Adams
+QST:What is Infinity
+ANS:These autos sport model numbers of FX, G, and Q
+QDD:What is a googol
+ANS:10 to the power of 100, this answer can leave you searching
+
+CAT:English
+QST:What is y
+ANS:This vowel with a slash through it may be the answer to the question WHY?
+QST:What is American
+ANS:Many nations, including Germany, believe U.S. citizens speak this language
+QST:What is vinegar
+ANS:The potato "chips" in England are served with this sour liquid 
+QST:What is a bulldog
+ANS:A pug faced cannine known to clench on something and hang on tight
+QST:A runon sentence
+ANS:The kind of sentence a marathon entrant would most want to be
+
+CAT:History
+QST:What is 2076
+ANS:The year of the tricentennial, supposing we last that long
+QST:Who is Custer
+ANS:This presidential contender hoped an indian rout would make him president in 1876. He was dead wrong
+QST:What is the white house
+ANS:The original was burned as Dolly Madison ran away with presidents under her skirt
+QST:Who is Karl Marx?
+ANS:Once a correspondant for the New York Tribune, leaving in 1862 for bigger things
+QST:Who is Thomas Nast
+ANS:The cartoonist credited for the Republican elephant and Democrat donkey
+
+CAT:U.S.
+QST:What is 13
+ANS:The number of stripes on the flag
+QST:What is Alaska
+ANS:The largest state, purchased from the Russians
+QST:Who is Uncle Sam
+ANS:The English have non related squire John Bull, and Americans have this fellow
+QST:What is MISSISSIPPI
+ANS:The spelling of the longest US river
+QST:Who is Amerigo Vespucci
+ANS:Where the name America came from
+
+CAT:Gym
+QST:What is a coach
+ANS:What the teacher was for a school team
+QST:What is "He's dead, Jim"
+ANS:The phrase Dr McCoy is most quoted for
+QST:What is a parachute
+ANS:In grade school, "popcorn" is only one game played with this once war surplus device
+QST:What is 11
+ANS:It's the number of soccer players fielded on a team
+QST:What is love
+ANS:In tennis it's 0 points
+
+CAT:Science
+QST:What is mud
+ANS:The mixture of silt and water
+QST:What is a tornado
+ANS:A violent weather occurrence that happens more in the US
+QST:What is a centimeter
+ANS:Your finger is about as wide as one of these 
+QST:Who is Frankenweenie
+ANS:A revival of a dog that was a parody of Frankenstein
+QST:What is an inclined plane
+ANS:A screw is one of these wrapped around a post
+
+CAT:Light Me Up
+QST:What are Northern Lights
+ANS:Aurora Borealis
+QST:What is a light house
+ANS:Once real homes, these sailor saviors today are mostly automated 
+QST:What is Lite-Brite
+ANS:This toy used colored pegs to make pictures
+QST:What is a diet
+ANS:A "light" meal is often part of one of these
+QST:What is a brother
+ANS:Rufus Wainright equates reduced gravity with this sibling relationship
+
+CAT:Pick Me Up
+QST:What is a pick up line
+ANS:An example is "what's your sign?"
+QST:What are hamburgers
+ANS:These remain the top selling fast food items from a pick up window
+QST:What are pick up sticks
+ANS:Often consisting of colored straws, this game dates back to ancient China
+QST:What are seconds
+ANS:Pick up, or speed from 0 to 60 is measured in these
+QDD:What is a Ranchero
+ANS:Produced from 1957 to 1991, this original car-truck was created by Ford
+
+CAT:Tie Me Up
+QST:What are the Boy Scouts
+ANS:This paramilitary organization is known for being specialists in knots
+QST:What is tongue-tied
+ANS:It's the term for simply having nothing to say
+QST:What is Marriage
+ANS:Too many folks tie one on before they tie this knot.
+QST:What is Sudden Death Overtime
+ANS:In football a tied game has this "fifth quarter" to resolve the outcome
+QST:What is the Gordian knot
+ANS:Alexander the Great untied this by simply cutting it in half with his sword
+
+CAT:Beam Me Up
+QST:What is green
+ANS:The color of Spock's blood, likely due to its copper base
+QST:Who is Captian Pike
+ANS:The original captain of the Enterprise, at least on the series
+QST:What is Tiberius
+ANS:It's Captain Kirk's middle name
+QST:Who is Nurse Chapel
+ANS:This minor character was Gene Roddenberry's real life wife
+QST:What is get married
+ANS:Kirk did this just once in his career, with an Indian girl names Miramanee
+
+CAT:Start Me Up
+QST:Who are The Rolling Stones
+ANS:They're often called the anti-beatles due to their bad boy images
+QST:What is a starter
+ANS:On the golf course, this person tells you when it's your turn to tee off
+QST:What is First String
+ANS:These "starters" are the top players of a high school sports squad
+QDD:What is a battery
+ANS:This device, along with a starter, turn over your car's engine to begin combustion
+QST:What is a single step
+ANS:According to zen philosophy, every journey begins with one of these
+
+CAT:Up, Up and Away
+QST:Who is Superman
+ANS:He can fly, but falls for Lois Lane
+QST:What is Apollo 11
+ANS:In July of 1969 this vessel named for a Greek god reach the lunar surface
+QST:What are Flares or Rockets
+ANS:These naval signals were simply hollowed out cannon balls, but they did have a red glare
+QST:Who is Daffy Duck
+ANS:He cried "yoiks and away" about 8 times in a row - with less and less clarity
+QST:Who is Slue Foot Sue
+ANS:She made a one way trip to the moon thanks to a horse and a bustle
+
+CAT:Should not see this!

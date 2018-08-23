@@ -1,0 +1,41 @@
+
+                                  Jeopardy!
+
+                      A game for 1-4 players, any age!
+
+
+OBJECT:
+
+The object of the game is to be the highest scorer.
+
+
+GAMEPLAY:
+
+Enter the player names from left to right, leaving no space blank.  When you're ready, click "Continue" to bring up the game board.  Note each player starts with a score of 0 points, and one of the players is highlighted in RED.  The player selects a dollar amount in a category and the answer is read. The first player to beep in is given a chance to provide the correct question.  If the question is not correct the dollar amount is subtracted from the players score.
+
+
+THE RULES:
+
+RULE 1 - All responses must be in the form of a question!
+
+RULE 2 - The lowest scoring player goes first in double and final Jeopardy
+
+RULE 3 - When uncovering a daily double, only the player uncovering it may answer.  The wager may be as high as the largest dollar value on the board or as much as the player currently has.  For instance, if the player has $100 in single Jeopardy they may wager $1000, the highest dollar value in single Jeopardy.  If the player has $5000, they may wager that instead.  All wagers must be in increments of $5 at least.
+
+
+
+THE NUTS AND BOLTS:
+
+I myself bought a gameshow selector kit from Velleman (kit number VEKM133) and mounted it in a box.  I wired the buttons to female RCA jacks.  Then I built 12' cords with plungers/buttons at the end, just like on the game show which plugged into my box using male RCA plugs.  The result is a box that the light comes on and locks out other players, making for less argumentive gameplay.
+
+For scoring on double Jeopardy questions, if the player gets the response right I pop over to the edit screen and adjust their score accordingly. So if they found the double Jeopardy behind a $500 question but only wagered $200, I marked the question "correct" for them but then reduce their score by 300 by hand.  I didn't see some neat-o way to do this automatically but this does indeed work.  Final Jeopardy requires paper given to the contestants, again I could not think of a neat/tidy way to do this on the computer.  In any case, the amounts can be
+locked in and the program does add/subtract their scores correctly.
+
+I hope you enjoy this program, it was fun to write and we had a hoot playing it at our New Years Eve party in 2005.  The question/answer file can be edited with any text editor that doesn't reformat the file (it's just plain ascii) so have some fun making up your own Jeopardy questions and categories!  If you can think of any further enhancements that might be fun (or find a bug!) drop me a line and I will see what I can do.  If you redistribute this, you are required to include my name and vitals below somewhere in plain sight, such as this help file.
+
+
+Randy Crihfield, 2006
+
+email: justrandy@charter.net
+  web: www.justrandy.com
+
