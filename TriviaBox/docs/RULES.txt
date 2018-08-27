@@ -1,0 +1,32 @@
+Welcome to the Trivia Box Sofware, REwritten in
+August 2017 by Randy Crihfield.
+
+All questions are worth 6 points if answered on
+the first try.  Each "miss" scores -1 and lowers
+the overall question score by one point.
+
+So suppose there are three players.  Suppose all
+three miss once and then #3 answers correctly.
+The score would be -1 -1 2.  (all three lost one
+point but the third player gets 3 points for
+getting it right)
+
+Suppose on the next question #1 misses and #2 gets
+it right.  Now the score is -2 4 2 (the first 
+player loses *another* point and the second player
+scores 5)
+
+And of course on the next question if #1 gets it
+right now the score is 4 4 2 (6 points scored)
+
+
+At the end your percentage of right/wrong plus
+overall score is there for all to see.  Good
+luck!
+
+You can create your OWN questions by editing 
+the game.dat file.  The question format is
+provided in the file itself.
+
+Probably some bugs in the scoring, I was MUCH more
+interested in the hardware side than the software....

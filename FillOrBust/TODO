@@ -1,0 +1,37 @@
+
+Rules yet to program that my game does not do:
+
+1. allow point dice to be selected and re-rolled per the rules
+
+	As I read the rules, you MUST keep SOME points wtih
+	each roll, but say you rolled three 2's and a 1.  I
+	believe you can keep the 1 and reroll the 2's (I guess
+	hoping they work out to better than 200 points)
+
+	currently, all points count and cannot be rerolled
+
+2. vengeance when there's a tie for the lead
+	(tied with card flipper or just two other players)
+
+	If I am tied for the lead and flip the vengeance card,
+	I believe the rules say I can indeed destroy my enemy
+	by playing the vengeance, and they lose 2500 points 
+	while I do not.
+
+	Also, say I am in 3rd place and there are two leaders
+	tied.  The vengeance card should remove 2500 from both
+	the leaders (perhaps vaulting me into 1st place!)
+
+	currently it takes it from the first leader found
+	but not if that's you
+
+3. Buttons available for each situation should highlight
+
+	This is a nice-to-have feature not yet implemented.
+	You want to know what options you have at any given
+	time.  Right now, you can just "try" and if you can't
+	do it, it just doesn't work.
+
+	for instance, if you have a Fill 1000 card and you 
+	try to end your turn before finishing the fill, it
+	just ignores you.

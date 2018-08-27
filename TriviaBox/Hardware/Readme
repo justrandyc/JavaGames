@@ -1,0 +1,39 @@
+
+This is currently based on a Teensy 2.0 board.  The .ino source is contained
+in the Teensy directory.
+
+For consistency, I used "A" style wiring for the RJ45 on the server module.
+The wiring to solder to the Teensy, in order is
+
+Ground	- Brown
+
+Red	- Orange
+Orange	- Blue
+Yellow	- Green
+Green	- Brown+White
+Blue	- Blue+White
+Purple	- Orange+White
+Next	- Green+White
+
+from there, every 7 digital i/o pins on the Teensy are repeated. The grounds
+all tie together.
+
+The Teensy 2.0 only has 25 i/o pins, so you need at most the ground + 21 of them.
+That gives you 3 controllers (7+7+7) with 4 left over.  Obviously a bigger Teensy
+would give you the ability to have more controllers.
+
+Actually, combinations would allow zillions of them (pin 1+2, 1+3, 1+4 vs 2+3, 2+4...)
+but I didn't do it this way.  Three controllers is sufficient.  Teensy 2.0 boards
+cost about $12 so it's hard to beat the price... the buttons and boxes cost more!
+
+On the RJ45 riser, I have soldered the buttons in this order:
+
+Ground	1 - all buttons one side
+Red	3
+Orange	5
+Yellow	7
+Green	2
+Blue	4
+Purple	6
+Next	8
+

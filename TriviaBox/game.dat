@@ -1,0 +1,178 @@
+# The game.dat file contains questions, answers, and
+# responses.  They will be read from top to bottom.
+#
+# The syntax for the file is:
+#
+#	QST:Some question that is all on one line
+#	COR:1
+#	ANS:Some answer all on one line
+#	ANS:The second answer...
+#	RES:The response for each answer
+#	RES:Second answer response...
+#
+# where 
+#	QST is the question
+#	COR is the number of the correct answer (may be 1-6. There
+#		may be only ONE correct answer at this time. Use 
+#		"all of the above" or some such phrasing to get
+#		fancy.)
+#	ANS is one of 6 possible answers.  You have to have at least
+#		one but you don't have to list all 6 every time (ie
+#		for a true/false question).  However, do have all 6
+#		ANS lines there even if you only want one answer. 
+#		Just leave them blank: ANS:
+#	RES is the response.  There must be one for every QST.
+#
+# You MUST have your entire question, answer, or response on one line.
+# This may make for a very long line but them's the rules, for now.
+#
+
+QST:What's the next line: Holy, Holy, Holy
+COR:3
+ANS:Lord God is mighty
+ANS:Mercy, full, and mighty
+ANS:All the saints adore thee
+ANS:Only thou are holy
+ANS:God is oft beside me
+ANS:Falling down before thee
+RES:Casting down their golden crowns, around the glassy sea!
+
+QST:If any lost one there, should cry in deep despair
+COR:2
+ANS:why didn't you tell me sooner?
+ANS:you never mentioned him to me
+ANS:And cause us to lose our soul
+ANS:You helped me not the light to see
+ANS:and turn sad eys on calvary
+ANS:A wonderful savior is Jesus my Lord
+RES:But let's not have someone say that about us!
+
+QST:"Everyone in step" towards "a city on a hill"
+COR:3
+ANS:The city foursquare
+ANS:I've got a mansion just over the hilltop
+ANS:We're marching to zion
+ANS:Walking in Sunlight
+ANS:Tramp, tramp, tramping for the Lord
+ANS:I walk through the garden alone
+RES:Come we that love the Lord and let our joys be known!
+
+QST:Which one is different than the rest?
+COR:6
+ANS:I have found a friend in Jesus
+ANS:Jesus, Rose of Sharon
+ANS:Where the roses never fade
+ANS:I come to the garden alone
+ANS:Paradise Valley
+ANS:Ten Thousand Angels
+RES:A rose, or lily, by any other name.
+
+QST:What's the prior line: you are tempest tossed
+COR:4
+ANS:Go into the field
+ANS:So, amid the conflict
+ANS:The sea is strong
+ANS:When upon life's billows
+ANS:Battered and shaken
+ANS:When troubles of life are near
+RES:So count your blessings, name them one by one!
+
+QST:The fountain of youth must be here
+COR:1
+ANS:Where we'll never grow old
+ANS:Heaven is all the world to me
+ANS:We read of a place that's called heaven
+ANS:Heavenly Sunlight
+ANS:Oh won't it be wonderful there
+ANS:Where the roses never fade
+RES:I have heard of this land, 'tis the beautiful home of the soul.
+
+QST:The perfect new years eve song!
+COR:4
+ANS:I will fast and I will pray
+ANS:Less of self and more of thee
+ANS:Remember the old man no more
+ANS:I am resolved
+ANS:Now the day is dawning
+ANS:Thus remember Me
+RES:Like dieting or exercise, a good idea ANY time of the year.
+
+QST:Which one is different from the rest?
+COR:5
+ANS:Stand up, stand up for Jesus
+ANS:Standing on the promises
+ANS:The Kingdoms of Earth Pass Away
+ANS:Where no one Stands alone
+ANS:Send the light
+ANS:'Neath the Banner of the Cross
+RES:What are you standing around for? Send the light!
+
+QST:Lewis and Clark might have thought of this when the saw the Pacific
+COR:2
+ANS:When we've come to the end of life's journey
+ANS:There is a sea
+ANS:The haven of rest
+ANS:Only a step
+ANS:Here we are but straying pilgrims
+ANS:Oh think of the home over there
+RES:Sea, ocean, they were happy either way!
+
+QST:"Salvation" of the "lost"
+COR:3
+ANS:Sweet by and by
+ANS:The new song
+ANS:Rescue the Perishing
+ANS:I surrender all
+ANS:Rock of ages
+ANS:hollow of God's hand
+RES:Don't groan, it really is a rescue mission!
+
+QST:Which one doesn't make you think of the Mayflower
+COR:6
+ANS:Hide me, Rock of Ages
+ANS:Here we are but straying pilgrims
+ANS:The rock that is higher than I
+ANS:The solid rock
+ANS:Sing on ye joyful pilgrims
+ANS:Sweet by and by
+RES:But they did meet on that beautiful shore.
+
+QST:What's the next line: Lord I believe, yes I believe
+COR:1
+ANS:I can not doubt, or be deceived
+ANS:Yes I believe!
+ANS:I can not doubt, or be relieved
+ANS:I caught a trout, leaks like a sieve
+ANS:when you're in doubt, don't be deceived
+ANS:The eye that sees each sparrow fall
+RES:Were you deceived?
+
+QST:Be QUICK! What's better than winning the lottery?
+COR:3
+ANS:A soul winner for Jesus
+ANS:
+ANS:Jesus paid it all
+ANS:
+ANS:
+ANS:
+RES:Yes, I suppose lots of things are better than winning the lottery.
+
+QST:A time when a count is made high in an indeterminate place
+COR:5
+ANS:Yonder over the rolling river
+ANS:Heavenly Palaces
+ANS:When the trumpet shall shound
+ANS:Just over the river
+ANS:When the Roll is Called up Yonder
+ANS:Count, count, counting for the Lord
+RES:And down here we cease to wander, I'll be there
+
+QST:This song uses the melody from Ode to Joy by Beethoven
+COR:4
+ANS:Here we are but straying pilgrims
+ANS:We'll work 'til Jesus comes
+ANS:Stand up, stand up for Jesus
+ANS:Joyful, Joyful we adore thee
+ANS:I walk with the King
+ANS:Hallelujah, Praise Jehovah
+RES:Freude, schoner Gotterfunken, tochter aus Elysium!

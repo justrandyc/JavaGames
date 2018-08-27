@@ -1,0 +1,31 @@
+# 
+# this simple text file contains winner and loser text
+# to randomly add to your answers.
+# 
+# I think you'll get the gist of it once you look at
+# the data.
+#
+
+RIGHT:Congradulations!
+RIGHT:Correct!
+RIGHT:Well Done!
+RIGHT:Bingo!
+RIGHT:Yep!
+RIGHT:That's Right!
+RIGHT:We have a winner!
+RIGHT:Yes!
+RIGHT:You got it!
+RIGHT:Too easy for you?
+
+
+WRONG:Not Quite!
+WRONG:Nope!
+WRONG:Try again!
+WRONG:Sorry!
+WRONG:Not this one!
+WRONG:Bummer!
+WRONG:Keep Trying!
+WRONG:That's not right!
+WRONG:Take another shot!
+WRONG:Well... no!
+

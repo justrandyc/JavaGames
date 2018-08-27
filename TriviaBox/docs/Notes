@@ -1,0 +1,51 @@
+
+
+I could have created the program to display RANDOM questions, but I
+decided not to. A given question might be part of a progression, where
+each one is intended to stimulate you to think about them and lead
+to a conclusion, and putting them in random order would be confusing
+and unhelpful.  If randomness is desired, drop me a line and let
+me know you have an RFE (Request For Enhancement) because being
+random would not be all that difficult to implement.  I would treat
+the questions like a bag of marbles, where you pull one out at random
+and once you pulled them all out they would all go back into the bag
+and get shaken around and the process repeated.  
+
+I have included a virtual controller (Player-0) which is mouse driven
+on the display.  The intention was so that folks could eval the software
+and decide if it fit their needs before they built/bought a set of
+controllers.  It's also handy for creating questions and testing their
+look on the computer w/o having to set the whole thing up.
+
+I should point out there is a secret DEBUG feature, so if the app is
+started up with the DEBUG flag you get to see all kinds of logging
+information as the program runs.  Probably not useful to most folks
+but it helped me detect flow issues as I developed the code.
+
+OK some important stuff:
+
+You can have a max of 6 players, but the INTENTION is two without any
+additional hardware at all!  The idea is one person can use the happy
+"Mouse Player" (which is also the admin user) and the other can use
+the keyboard.  IE, Red is R, Yellow is Y, etc...  This allows anyone to
+compete and try this out without any additional controllers.
+
+The OLD controllers used this clever custom hardware jobber I built that
+took advantage of the printer port.  Who has a printer port anymore?
+So now we use these things called "Teensy" boards - but bonus the old
+controllers still work just as they are!  This allows us to use a USB
+port, but limits us to only 3 controllers for the cheap $12 Teensy board.
+Yes I could have sprung and got the $30 one and had all 6 but did I 
+mention I was cheap?
+
+AND as before, if one were to take this oh to a street fair the only
+part that need be exposed to folks that walk by would be the simple
+to make controller, a standard RJ45 cable, and visibility to a screen.
+They don't need to touch the mouse, keyboard, or even the Teensy module
+that makes it work over usb.  
+
+If you are curious, the Teensy board allows me to wire the buttons up
+as if they were keys on a keyboard - so the R button on controller 1 
+could be oh the 1 button "on the keyboard".  This makes the software
+super simple to allow for a lot of controllers. 
+
